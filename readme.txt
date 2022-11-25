@@ -7,8 +7,4 @@
 777777
 888888
 000000
-<<<<<<< HEAD
-mod testgit2444
-=======
-add test232
->>>>>>> a39396ffbf94fe15c8315d0abf0fe50cdfde9e88
+2222
